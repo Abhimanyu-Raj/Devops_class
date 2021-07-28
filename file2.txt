@@ -1,2 +1,2 @@
-this is second sample file
+this is line 1 of file2
 this is second line from file 2
